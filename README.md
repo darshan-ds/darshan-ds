@@ -15,7 +15,7 @@
   <img align="left" alt="Darshan's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
+<a href="">
   <img align="left" alt="Darshan's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
@@ -68,7 +68,6 @@ If you like what I do, maybe consider buying me a coffee/tea  👉👈
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=darshan-ds&show_icons=true&theme=dracula&count_private=true" alt="darshan-ds" />
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan-ds&layout=compact" alt="darshan-ds"/>
 
 
 
