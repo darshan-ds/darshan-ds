@@ -1,6 +1,6 @@
 ### Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+<a href="https://www.linkedin.com/in/darshan-ds/">
   <img align="left" alt="Darshan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
@@ -11,7 +11,7 @@
 <a href="https://www.instagram.com/dar_shan_ds/">
   <img align="left" alt="Darshan's Instagram" width="22px" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" />
 </a>
-<a href="https://twitter.com/abhisheknaiidu">
+<a href="https://twitter.com/Darshan95777748">
   <img align="left" alt="Darshan's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
@@ -52,7 +52,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 📊 **This Week I Spent My Time On:**
 ```text
-GRU, LSTM and Bidirectional layers on NLP
+Credit Card Approval Prediction Project.
 ```
 
 If you like what I do, maybe consider buying me a coffee/tea  👉👈
