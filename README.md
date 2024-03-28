@@ -24,7 +24,7 @@
 <br />
 
 
-Hi, I'm [Darshan DS](https://darshan-ds.github.io/), a passionate self-taught Data scientist and an AI enthusiast from India. I am really keen to learn about the new technological advancement, mainly in the field of Data science and AI. The possibility of creating a semi-intelligent system, which can make our lives easier
+Hi, I'm [Darshan DS](https://darshan-ds.github.io/), a passionate self-taught Data scientist and an AI enthusiast from India. I am really keen to learn about the new technological advancements, mainly in the field of Data science and AI. The possibility of creating a semi-intelligent system, which can make our lives easier
 and help a lot of people in various domains is really exciting to me. Lets share our knowledge through this platform and grow together.
 
 I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
@@ -49,27 +49,3 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 
 ---
-
-📊 **This Week I Spent My Time On:**
-```text
-Credit Card Approval Prediction Project.
-```
-
-If you like what I do, maybe consider buying me a coffee/tea  👉👈
-
-<a href="https://www.buymeacoffee.com/darshands" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
----
-
-
-📈 **My GitHub Stats**
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=darshan-ds&show_icons=true&theme=dracula&count_private=true" alt="darshan-ds" />
-
-
-
-
-
-
-
-
